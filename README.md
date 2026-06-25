@@ -68,7 +68,7 @@ Interactive Dashboard
 View the live, interactive dashboard here:
 (https://datastudio.google.com/reporting/415b4e08-b0e2-46f3-9d90-23e90befc976)
 Dashboard Preview
-[Dashboard Robotic](https://github.com/FannyWahyuAprilia/Analysis-Sales-Performance-Robotic/blob/main/Dashboard%20Robotic.png)
+[Dashboard Robotic]([https://github.com/FannyWahyuAprilia/Analysis-Sales-Performance-Robotic/blob/main/Dashboard%20Robotic.png](https://github.com/GalihEkaSaputra/Project-Lily-Roboo/blob/main/Dashboard%20Robotic.png))
 
 Key Insights
 Through data aggregation, the highest revenue-generating robotic products were successfully identified.
