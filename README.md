@@ -18,21 +18,22 @@ This project digs into robotic sales data using SQL in Google BigQuery and bring
 - Looker Studio
 - GitHub
 
-##Dashboard
+## Dashboard
 Take the interactive dashboard for a spin here:
 Looker Studio Dashboard
 
 Dashboard Preview
 Dashboard Robotic
 
-##Key Insights
+## Key Insights
 - Top Earners: Sales aggregation clearly highlights which robotic products generate the highest revenue.
 - Peak Timing: Trend analysis pinpoints exactly when customers are buying the most.
 - Instant Clarity: The dashboard visualizations allow stakeholders to check the business's health at a single glance.
 
-Interactive dashboard here:
+## Interactive dashboard here:
 (https://datastudio.google.com/reporting/415b4e08-b0e2-46f3-9d90-23e90befc976)
-Dashboard Preview
+
+## Dashboard Preview
 [Dashboard Robotic]([https://github.com/FannyWahyuAprilia/Analysis-Sales-Performance-Robotic/blob/main/Dashboard%20Robotic.png](https://github.com/GalihEkaSaputra/Project-Lily-Roboo/blob/main/Dashboard%20Robotic.png))
 
 
